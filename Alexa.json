@@ -1,0 +1,23 @@
+{
+	"Monday": {
+		"Event": "Karaoke"
+	},
+	"Tuesday": {
+		"Event": "Snooker"
+	},
+	"Wednesday": {
+		"Event": "Pool"
+	},
+	"Thursday": {
+		"Event": "Coffee morning"
+	},
+	"Friday": {
+		"Event": "Clubbing"
+	},
+	"Saturday": {
+		"Event": "Movie night"
+	},
+	"Sunday": {
+		"Event": "Group study"
+	}
+}
