@@ -1,23 +1,23 @@
 {
-	"Monday": {
-		"Event": "Karaoke"
+	"monday": {
+		"event": "Karaoke"
 	},
-	"Tuesday": {
-		"Event": "Snooker"
+	"tuesday": {
+		"event": "Snooker"
 	},
-	"Wednesday": {
-		"Event": "Pool"
+	"wednesday": {
+		"event": "Pool"
 	},
-	"Thursday": {
-		"Event": "Coffee morning"
+	"thursday": {
+		"event": "Coffee morning"
 	},
-	"Friday": {
-		"Event": "Clubbing"
+	"friday": {
+		"event": "Clubbing"
 	},
-	"Saturday": {
-		"Event": "Movie night"
+	"saturday": {
+		"event": "Movie night"
 	},
-	"Sunday": {
-		"Event": "Group study"
+	"sunday": {
+		"event": "Group study"
 	}
 }
